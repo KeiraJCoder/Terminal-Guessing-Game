@@ -59,17 +59,39 @@ do {
 console.log('Game over, thank you for playing!');
 ```
 
-##Setup and Execution
-To run this game, you will need to have Node.js and the readline-sync package installed on your system. Follow the setup instructions provided to get started.
+```
+## Setup and Execution
 
-##Setup Instructions
-Install Node.js from the official website or use Homebrew if you are on a Mac.
-Navigate to the directory containing your game script in the terminal.
-Install the readline-sync package by running npm install readline-sync.
+To run this game, you will need to have Node.js and the `readline-sync` package installed on your system. Follow the setup instructions provided to get started.
 
-##How to Run the Game
-Execute the script with Node.js in the terminal by typing node your-guessing-game-file.js, making sure to replace your-guessing-game-file.js with the actual filename of your script.
+### Setup Instructions
+
+1. **Install Node.js** from the [official website](https://nodejs.org/) or use Homebrew if you are on a Mac.
+
+   ```
+   brew install node
+   ```
+
+2. **Navigate to the directory** containing your game script in the terminal.
+
+3. **Install the `readline-sync` package** by running:
+
+   ```
+   npm install readline-sync
+   ```
+
+### How to Run the Game
+
+- **Execute the script** with Node.js in the terminal by typing:
+
+  ```
+  node your-guessing-game-file.js
+  ```
+
+  Make sure to replace `your-guessing-game-file.js` with the actual filename of your script.
 
 Enjoy the game, and may the odds be ever in your favor!
+```
+
 
 
