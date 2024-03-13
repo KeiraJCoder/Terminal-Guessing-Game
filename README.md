@@ -4,8 +4,6 @@
 
 Here is the write-up of the number guessing game code with explanations, formatted for a README.md file to be used on GitHub:
 
-markdown
-Copy code
 # Number Guessing Game in JavaScript
 
 A simple, interactive number guessing game that runs in the terminal using Node.js.
