@@ -57,8 +57,7 @@ do {
 
 // End of the game message
 console.log('Game over, thank you for playing!');
-
-
+```
 
 Setup and Execution
 To run this game, you will need to have Node.js and the readline-sync package installed on your system. Follow the setup instructions provided to get started.
@@ -71,3 +70,5 @@ How to Run the Game
 Execute the script with Node.js in the terminal by typing node your-guessing-game-file.js, making sure to replace your-guessing-game-file.js with the actual filename of your script.
 
 Enjoy the game, and may the odds be ever in your favor!
+
+
