@@ -57,6 +57,9 @@ do {
 
 // End of the game message
 console.log('Game over, thank you for playing!');
+
+
+
 Setup and Execution
 To run this game, you will need to have Node.js and the readline-sync package installed on your system. Follow the setup instructions provided to get started.
 
