@@ -68,6 +68,7 @@ Setup Instructions
 Install Node.js from the official website or use Homebrew if you are on a Mac.
 Navigate to the directory containing your game script in the terminal.
 Install the readline-sync package by running npm install readline-sync.
+
 How to Run the Game
 Execute the script with Node.js in the terminal by typing node your-guessing-game-file.js, making sure to replace your-guessing-game-file.js with the actual filename of your script.
 
